@@ -30,6 +30,7 @@ def linearPositionSearch(array, index, element):
 
 
 if __name__ == '__main__':
+    ##
     nums = [0,1,2,2,3,5,4,6]
     print(nums)
     index = linearSearch(nums, 2)
